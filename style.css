@@ -165,13 +165,13 @@ html body{
     content: "";
     position: absolute;
     /* background: url('./bg.jpg'); */
-    background: url('https://static.toiimg.com/photo/74709590.cms');
+    background: url('https://www.incimages.com/uploaded_files/image/1920x1080/getty_678074927_2000133320009280137_360656.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     height: 100%;
     width: 100%;
     z-index: -1;
-    opacity: 0.5;
+    opacity: 1.25;
 }
 
 .client-item img{
